@@ -1,0 +1,21 @@
+article{
+    margin-block: 2rem;
+}
+
+.ball{
+    position: relative;
+    width: 50px;
+    aspect-ratio: 1;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+.ball1{
+background-color : blue;
+box-shadow: 1px 1px 10px;
+}
+#ballon{
+    background-color: rgb(0, 183, 255) ;
+}
+.ball3{
+    background-color: rgb(0, 0, 255);
+}
